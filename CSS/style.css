@@ -53,10 +53,10 @@ input::placeholder {
 }
 button {
     color: white;
-    height: 2rem;
+    height: 2.2rem;
     border-radius: 10px;
-    background-color: wheat;
-    border: none;
+    background-color: transparent;
+    border: 3px solid white;
     font-size: 1.5rem;
 }
 #todo-list button {
